@@ -1,5 +1,7 @@
 # flutter_app
 
+![screen-capture-_2_](https://user-images.githubusercontent.com/29818932/138963595-ad50a12f-d8f5-495d-adb9-8800e98984bf.gif)
+
 A new Flutter project.
 
 ## Getting Started
